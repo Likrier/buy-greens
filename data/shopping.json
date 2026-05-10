@@ -1,0 +1,39 @@
+{
+  "2026-5-10": {
+    "items": [
+      {
+        "name": "胡萝卜",
+        "bought": false
+      },
+      {
+        "name": "豆腐",
+        "bought": false
+      },
+      {
+        "name": "鸡肉",
+        "bought": false
+      },
+      {
+        "name": "鸡蛋",
+        "bought": false
+      },
+      {
+        "name": "猪肉",
+        "bought": false
+      },
+      {
+        "name": "青菜",
+        "bought": false
+      },
+      {
+        "name": "土豆",
+        "bought": false
+      },
+      {
+        "name": "西红柿",
+        "bought": false
+      }
+    ],
+    "updatedAt": "2026-05-10T08:26:23.433Z"
+  }
+}
